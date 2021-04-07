@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Run Energy Feed Client",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/samples/use_news_feed.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}

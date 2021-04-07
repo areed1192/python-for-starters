@@ -1,32 +1,33 @@
 import unittest
 
 from unittest import TestCase
-from configparser import ConfigParser
+from energy_feed.client import EnergyFeedClient
+from energy_feed.news_feed import NewsFeed
 
 
-class MySession(TestCase):
+class TestEnergyFeedClient(TestCase):
 
-    """Will perform a unit test for the <PLACEHOLDER> session."""
+    """Will perform a unit test for the `EnergyFeedClient` object."""
 
     def setUp(self) -> None:
-        """Set up the <PLACEHOLDER> Client."""
+        """Set up the `EnergyFeedClient` object."""
 
-        # Initialize the Parser.
-        config = ConfigParser()
+        self.client = EnergyFeedClient()
 
-        # Read the file.
-        config.read('configs/config.ini')
+    def test_creates_instance_of_client(self):
+        """Create an instance and make sure it's a `EnergyFeedClient` object"""
 
-        # Get the specified credentials.
-        config.get('main', '')
+        self.assertIsInstance(self.client, EnergyFeedClient)
 
-    def test_creates_instance_of_session(self):
-        """Create an instance and make sure it's a <PLACEHOLDER>."""
-        pass
+    def test_creates_instance_of_news_feed(self):
+        """Create an instance and make sure it's a `NewsFeed` object"""
+
+        self.assertIsInstance(self.client.news_feed(), NewsFeed)
 
     def tearDown(self) -> None:
-        """Teardown the <PLACEHOLDER> Client."""
-        pass
+        """Teardown the `EnergyFeedClient` object."""
+
+        del self.client
 
 
 if __name__ == '__main__':

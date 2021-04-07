@@ -1,0 +1,832 @@
+[
+  {
+    "name": "Weekly supply estimates",
+    "url": "https://www.eia.gov/dnav/pet/pet_sum_sndw_dcus_nus_w.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Supply and disposition",
+    "url": "https://www.eia.gov/dnav/pet/pet_sum_snd_d_nus_mbbl_m_cur.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "U.S. crude oil supply & disposition",
+    "url": "https://www.eia.gov/dnav/pet/pet_sum_crdsnd_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Prices, sales volumes & stocks by state",
+    "url": "https://www.eia.gov/dnav/pet/pet_sum_mkt_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Monthly Energy Review",
+    "url": "https://www.eia.gov/totalenergy/data/monthly/",
+    "extension": "gov/totalenergy/data/monthly/"
+  },
+  {
+    "name": "more on petroleum",
+    "url": "https://www.eia.gov/totalenergy/data/monthly/#petroleum",
+    "extension": "gov/totalenergy/data/monthly/#petroleum"
+  },
+  {
+    "name": "PDF",
+    "url": "https://www.eia.gov/totalenergy/data/monthly/pdf/sec3_3.pdf",
+    "extension": "pdf"
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.eia.gov/totalenergy/data/browser/csv.php?tbl=T03.01",
+    "extension": "01"
+  },
+  {
+    "name": "XLS",
+    "url": "https://www.eia.gov/totalenergy/data/browser/xls.php?tbl=T03.01&freq=m",
+    "extension": "01&freq=m"
+  },
+  {
+    "name": "Petroleum statistics by country",
+    "url": "https://www.eia.gov/beta/international/data/browser/#/?pa=0000000000000000000000000000000000vg&f=M&c=4100000002000060000000000000g000200000000000000001&tl_id=5-M&vs=INTL.53-1-AFRC-TBPD.M&vo=0&v=H&start=199401&end=201803",
+    "extension": "M&vo=0&v=H&start=199401&end=201803"
+  },
+  {
+    "name": "Gasoline and diesel fuel update",
+    "url": "https://www.eia.gov/petroleum/gasdiesel/",
+    "extension": "gov/petroleum/gasdiesel/"
+  },
+  {
+    "name": "Heating Oil and Propane Update",
+    "url": "https://www.eia.gov/petroleum/heatingoilpropane/",
+    "extension": "gov/petroleum/heatingoilpropane/"
+  },
+  {
+    "name": "Weekly retail gasoline and on-highway diesel prices",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_nus_w.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Monthly Energy Review",
+    "url": "https://www.eia.gov/totalenergy/data/monthly/",
+    "extension": "gov/totalenergy/data/monthly/"
+  },
+  {
+    "name": "PDF",
+    "url": "https://www.eia.gov/totalenergy/data/monthly/pdf/sec9_6.pdf ",
+    "extension": "pdf "
+  },
+  {
+    "name": "CSV",
+    "url": "https://www.eia.gov/totalenergy/data/browser/csv.php?tbl=T09.04",
+    "extension": "04"
+  },
+  {
+    "name": "XLS",
+    "url": "https://www.eia.gov/totalenergy/data/browser/xls.php?tbl=T09.04&freq=m",
+    "extension": "04&freq=m"
+  },
+  {
+    "name": "Motor gasoline retail prices",
+    "url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "extension": "php?t=ptb0524"
+  },
+  {
+    "name": "PDF",
+    "url": "https://www.eia.gov/totalenergy/data/annual/pdf/sec5_59.pdf",
+    "extension": "pdf"
+  },
+  {
+    "name": "XLS",
+    "url": "https://www.eia.gov/totalenergy/data/annual/xls/stb0524.xls",
+    "extension": "xls"
+  },
+  {
+    "name": "Spot prices",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Futures prices (NYMEX)",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_fut_s1_d.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Weekly heating oil & propane prices",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_wfr_dcus_nus_w.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refiner petroleum product prices by sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refiner gasoline prices by grade, sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_refmg_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refiner gasoline prices by formulation, grade, sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_refmg2_d_nus_PTG_dpgal_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refiner petroleum product prices by sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refiner gasoline prices by grade, sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_refmg_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refiner gasoline prices by formulation, grade, sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_refmg2_d_nus_PTG_dpgal_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refiner petroleum product prices by sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_refoth_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refiner gasoline prices by grade, sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_refmg_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refiner gasoline prices by formulation, grade, sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_refmg2_d_nus_PTG_dpgal_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Gasoline prices by formulation, grade, sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_allmg_d_nus_PTA_dpgal_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "No. 2 distillate prices by sales type and selected states",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dist_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Propane (consumer grade) prices by sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_prop_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil prices by sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_resid_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Gasoline prices by formulation, grade, sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_allmg_d_nus_PTA_dpgal_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "No. 2 distillate prices by sales type and selected states",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dist_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Propane (consumer grade) prices by sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_prop_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil prices by sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_resid_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Gasoline prices by formulation, grade, sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_allmg_d_nus_PTA_dpgal_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "No. 2 distillate prices by sales type and selected states",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dist_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Propane (consumer grade) prices by sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_prop_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil prices by sales type",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_resid_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refiner acquisition cost of crude oil",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_rac2_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dfp1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dfp2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dfp3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dfp1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dfp2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dfp3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dfp1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dfp2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_dfp3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_imc1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_imc2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_imc3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_imc1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_imc2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_imc3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_imc1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_imc2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_imc3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_land1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_land2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_land3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_land1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_land2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_land3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_land1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_land2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_pri_land3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Real U.S. petroleum prices (past & projected)",
+    "url": "https://www.eia.gov/outlooks/steo/realprices/",
+    "extension": "gov/outlooks/steo/realprices/"
+  },
+  {
+    "name": "Crude oil production",
+    "url": "https://www.eia.gov/dnav/pet/pet_crd_crpdn_adc_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Weekly inputs & utilization",
+    "url": "https://www.eia.gov/dnav/pet/pet_pnp_wiup_dcu_nus_w.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Weekly imports & exports",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_wkly_dc_NUS-Z00_mbblpd_w.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Weekly preliminary crude imports by country of origin \u203a",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_wimpc_s1_w.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Imports by area of entry",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imp_dc_NUS-Z00_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Imports by processing area",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imp2_dc_R10-Z00_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "U.S. imports by country of origin",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_impcus_a2_nus_ep00_im0_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "PAD District imports by country of origin",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_impcp_a2_r10_ep00_ip0_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Company level imports",
+    "url": "https://www.eia.gov/petroleum/imports/companylevel/",
+    "extension": "gov/petroleum/imports/companylevel/"
+  },
+  {
+    "name": "Residual fuel imports by state of entry",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_res_dc_nus-Z00_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Percentages of total imported crude oil by API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_ipct_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Exports",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_exp_dc_NUS-Z00_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Exports by destination",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_expc_a_EP00_EEX_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "PAD District Exports by Destination",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_expcp_a2_r10_ep00_eex_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "U.S. net imports by country",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_neti_a_EP00_IMN_mbblpd_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imc1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imc2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imc3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imc1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imc2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imc3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imc1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imc2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_imc3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_land1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_land2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_land3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_land1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_land2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_land3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By area",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_land1_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By crude stream",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_land2_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By API gravity",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_land3_k_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By pipeline, tanker, barge, and rail",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_ptb_dc_R20-R10_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By pipeline",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_pipe_dc_R20-R10_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By tanker and barge",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_tb_dc_R20-R10_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By rail",
+    "url": "https://www.eia.gov/dnav/pet/PET_MOVE_RAIL_A_EPC0_RAIL_MBBL_M.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By pipeline, tanker, barge, and rail",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_ptb_dc_R20-R10_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By pipeline",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_pipe_dc_R20-R10_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By tanker and barge",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_tb_dc_R20-R10_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By rail",
+    "url": "https://www.eia.gov/dnav/pet/PET_MOVE_RAIL_A_EPC0_RAIL_MBBL_M.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By pipeline, tanker, barge, and rail",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_ptb_dc_R20-R10_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By pipeline",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_pipe_dc_R20-R10_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By tanker and barge",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_tb_dc_R20-R10_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "By rail",
+    "url": "https://www.eia.gov/dnav/pet/PET_MOVE_RAIL_A_EPC0_RAIL_MBBL_M.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Movements of Crude Oil and Selected Products by Rail",
+    "url": "https://www.eia.gov/dnav/pet/PET_MOVE_RAILNA_A_EPC0_RAIL_MBBL_M.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Net receipts of crude oil and petroleum products by pipeline, tanker, barge, and rail",
+    "url": "https://www.eia.gov/dnav/pet/pet_move_netr_d_r10-z0p_VNR_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Pipeline projects",
+    "url": "https://www.eia.gov/petroleum/xls/EIA_LiqPipProject.xlsx",
+    "extension": "xlsx"
+  },
+  {
+    "name": "XLS",
+    "url": "https://www.eia.gov/petroleum/xls/EIA_LiqPipProject.xlsx",
+    "extension": "xlsx"
+  },
+  {
+    "name": "Weekly stocks",
+    "url": "https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_nus_w.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Stocks of motor gasoline, distillate fuel oil, residual fuel oil, propane, and propylene",
+    "url": "https://www.eia.gov/dnav/pet/pet_stoc_ts_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Stocks by type",
+    "url": "https://www.eia.gov/dnav/pet/pet_stoc_typ_d_nus_SAE_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refinery, bulk terminal, and natural gas plant stocks by state",
+    "url": "https://www.eia.gov/dnav/pet/pet_stoc_st_dc_NUS_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Refinery stocks",
+    "url": "https://www.eia.gov/dnav/pet/pet_stoc_ref_dc_nus_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Crude oil stocks at tank farms & pipelines",
+    "url": "https://www.eia.gov/dnav/pet/pet_stoc_cu_s1_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Natural gas plant stocks",
+    "url": "https://www.eia.gov/dnav/pet/pet_stoc_gp_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Working and net available shell storage capacity",
+    "url": "https://www.eia.gov/petroleum/storagecapacity/",
+    "extension": "gov/petroleum/storagecapacity/"
+  },
+  {
+    "name": "U.S. weekly product supplied",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_wpsup_k_w.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Product supplied",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_psup_dc_nus_mbbl_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Prime supplier sales volumes",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_prim_dcu_nus_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Motor gasoline",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_refmg_d_nus_VTR_mgalpd_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil and No. 4 fuel oil",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_refres_d_nus_VTR_mgalpd_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Other products",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_refoth_d_nus_VTR_mgalpd_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Motor gasoline",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_refmg_d_nus_VTR_mgalpd_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil and No. 4 fuel oil",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_refres_d_nus_VTR_mgalpd_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Other products",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_refoth_d_nus_VTR_mgalpd_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Motor gasoline",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_refmg_d_nus_VTR_mgalpd_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil and No. 4 fuel oil",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_refres_d_nus_VTR_mgalpd_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Other products",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_refoth_d_nus_VTR_mgalpd_m.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821dst_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821rsd_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821ker_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate and kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821use_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821dst_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821rsd_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821ker_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate and kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821use_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821dst_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821rsd_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821ker_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate and kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821use_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821dsta_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821rsda_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821kera_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate and kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821usea_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821dsta_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821rsda_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821kera_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate and kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821usea_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821dsta_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Residual fuel oil by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821rsda_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821kera_dcu_nus_a.htm",
+    "extension": "htm"
+  },
+  {
+    "name": "Distillate and kerosene by end use",
+    "url": "https://www.eia.gov/dnav/pet/pet_cons_821usea_dcu_nus_a.htm",
+    "extension": "htm"
+  }
+]
