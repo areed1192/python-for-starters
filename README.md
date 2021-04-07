@@ -1,4 +1,4 @@
-# Template Repo
+# Energy Feed Scraper
 
 ## Table of Contents
 
@@ -9,9 +9,12 @@
 
 ## Overview
 
+This library will help capture different articles from the EPA RSS feeds. Additionally
+it will help us send emails once the data is capture.
+
 ## Setup
 
-**Setup - Requirements Install:***
+**Setup - Requirements Install:**
 
 For this particular project, you only need to install the dependencies, to use the project. The dependencies
 are listed in the `requirements.txt` file and can be installed by running the following command:
@@ -47,28 +50,26 @@ pip install .
 This will install all the dependencies listed in the `setup.py` file. Once done
 you can use the library wherever you want.
 
-**Setup - PyPi Install:**
-
-To **install** the library, run the following command from the terminal.
-
-```console
-pip install federal-register
-```
-
-**Setup - PyPi Upgrade:**
-
-To **upgrade** the library, run the following command from the terminal.
-
-```console
-pip install --upgrade federal-register
-```
-
 ## Usage
 
-Here is a simple example of using the `place_holder` library.
+Here is a simple example of using the `energy_feed` library.
 
 ```python
+from pprint import pprint
+from energy_feed.enums import Months
+from energy_feed.client import EnergyFeedClient
 
+# Initialize the client.
+scraper_client = EnergyFeedClient()
+
+# Initialize the `NewsFeed` service.
+news_feed_service = scraper_client.news_feed()
+
+# Grab the Articles for the month of April.
+pprint(news_feed_service.today_in_energy(month='Apr', year=2021))
+
+# Grab another month but this time use the enums.
+pprint(news_feed_service.today_in_energy(month=Months.December, year=2020))
 ```
 
 ## Support These Projects
@@ -81,5 +82,5 @@ pay monthly fees.
 **YouTube:**
 If you'd like to watch more of my content, feel free to visit my YouTube channel [Sigma Coding](https://www.youtube.com/c/SigmaCoding).
 
-<!-- **Hire Me:**
-If you have a project, you think I can help you with feel free to reach out at [coding.sigma@gmail.com](mailto:coding.sigma@gmail.com?subject=[GitHub]%20Project%20Proposal) or fill out the [contract request form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAa__aAmF1hURFg5ODdaVTg1TldFVUhDVjJHWlRWRzhZRy4u) -->
+**Questions:**
+If you have questions please feel free to reach out to me at [coding.sigma@gmail.com](mailto:coding.sigma@gmail.com?subject=[GitHub]%20Fred%20Library)

@@ -24,6 +24,13 @@ class TestEnergyFeedClient(TestCase):
 
         self.assertIsInstance(self.client.news_feed(), NewsFeed)
 
+    def test_creates_grabbing_news_articles(self):
+        """Create an instance and make sure it's a `NewsFeed` object"""
+
+        news_feed = self.client.news_feed()
+        articles = news_feed.today_in_energy(month='Apr', year=2021)
+        self.assertIsNotNone(articles)
+
     def tearDown(self) -> None:
         """Teardown the `EnergyFeedClient` object."""
 
