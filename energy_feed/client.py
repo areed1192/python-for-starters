@@ -14,6 +14,7 @@ class EnergyFeedClient():
         NewsFeed
             The news feed report service.
         """
+
         return NewsFeed()
 
     def save_reports(self, reports: List, path: Union[str, pathlib.Path]) -> None:
@@ -21,10 +22,10 @@ class EnergyFeedClient():
 
         ### Parameters
         ----
-        reports : List
+        report: List
             The parsed URLs and report info.
 
-        path : Union[str, pathlib.Path]
+        path: Union[str, pathlib.Path]
             Either a string pointing to the path
             or a `Path` object.
 

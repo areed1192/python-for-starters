@@ -1,5 +1,4 @@
 import unittest
-
 from unittest import TestCase
 from energy_feed.client import EnergyFeedClient
 from energy_feed.news_feed import NewsFeed

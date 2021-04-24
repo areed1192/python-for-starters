@@ -13,7 +13,7 @@ class EnergyReportParser():
 
         ### Parameters
         ----
-        content : str
+        content: str
             The HTML content as string.
 
         ### Returns

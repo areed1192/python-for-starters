@@ -4,7 +4,7 @@ class Months(Enum):
     """Represents all the Months that can
     be used to query differnt news feed reports.
 
-    ### Usage:
+    ### Usage
     ----
         >>> from energy_feed.enums import Months
         >>> Months.April.value

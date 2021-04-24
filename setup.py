@@ -8,64 +8,14 @@ with open(file="README.md", mode="r") as fh:
 setup(
 
     name='energy-information-administraion-scraper',
-
-    # Define Author Info.
-    author='Alex Reed',
-    author_email='coding.sigma@gmail.com',
-
-    # Define Version Info.
     version='0.1.0',
-
-    # Define descriptions.
-    description='A scraper client for the EIA.',
-    long_description=long_description,
-    long_description_content_type="text/markdown",
-
-    # Define repo location.
-    url='https://github.com/areed1192/python-for-starters',
-
-    # Define dependencies.
     install_requires=[
         'requests==2.24.0',
         'beautifulsoup4==4.9.3'
     ],
-
-    # Specify folder content.
     packages=find_namespace_packages(
         include=['energy_feed']
     ),
-
-    # Define the python version.
     python_requires='>3.7',
-
-    # Define our classifiers.
-    classifiers=[
-
-        # Phase of development my library is in.
-        'Development Status :: 3 - Alpha',
-
-        # Audience this library is intended for.
-        'Intended Audience :: Developers',
-        'Intended Audience :: Science/Research',
-        'Intended Audience :: Financial and Insurance Industry',
-
-        # License that guides my library.
-        'License :: OSI Approved :: MIT License',
-
-        # Package was written in English.
-        'Natural Language :: English',
-
-        # Operating systems.
-        'Operating System :: OS Independent',
-
-        # Programming Languages Used..
-        'Programming Language :: Python :: 3.7',
-        'Programming Language :: Python :: 3.8',
-
-        # Topics.
-        'Topic :: Database',
-        'Topic :: Education',
-        'Topic :: Office/Business'
-    ]
 
 )

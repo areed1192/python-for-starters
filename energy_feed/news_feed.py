@@ -21,10 +21,10 @@ class NewsFeed():
 
         ### Parameters
         ----
-        month : Union[str, Enum]
+        month: Union[str, Enum]
             The month you want to query.
 
-        year : int
+        year: int
             The year you want to query.
 
         ### Returns
